@@ -1,9 +1,9 @@
 {
-  "name": "ncpa_gulpfile",
+  "name": "start-me-up",
   "author": "Pete Richardson",
   "email": "pete.richardson82@gmail.com",
   "url": "",
-  "description": "NCPA website",
+  "description": "ENTER PROJECT DESCRIPTION HERE",
   "main": "gulpfile.js",
   "devDependencies": {
     "gulp": "~3.8.10",
