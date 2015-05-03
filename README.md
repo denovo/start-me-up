@@ -1,5 +1,7 @@
 # start-me-up
-Starting point for new projects. Gulp tasks, templating, livereload, Bourbon, Neat etc
+Starting point for new projects. 
+Based on HTML5 boilerplate, Bourbon, Neat, Bitters
+Includes - Gulp tasks, templating, livereload
 
 ## Usage
 
